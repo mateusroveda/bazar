@@ -1,0 +1,7 @@
+### Global variables
+[default]
+VIEWS_DIR = '@format {env[PWD]}/bazar/resources/views/'
+STATIC_DIR = '@format {env[PWD]}/bazar/public/'
+MODELS_DIR = '@format {env[PWD]}/bazar/database/Models'
+MIGRATIONS_DIR = '@format {env[PWD]}/bazar/database/Migrations'
+SEEDS_DIR = '@format {env[PWD]}/bazar/database/Seeds'
