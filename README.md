@@ -6,10 +6,10 @@ Read the instructions on [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Contributors
 Thanks goes to these wonderful people:
-[Regis Tomkiel](https://github.com/tomkiel)   
+[Regis Tomkiel](https://github.com/tomkiel)     
 
-[Mateus Roveda]()
+[Mateus Roveda](https://github.com/mateusroveda)  
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The "bazar" is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
